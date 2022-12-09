@@ -11,7 +11,7 @@ from moviepy.editor import VideoFileClip
 
 if __name__ == "__main__":
 
-    demo = 1 # 1: image, 2 video
+    demo = 2 # 1: image, 2 video
 
     if demo == 1:
         imagepath = 'examples/test3.jpg'
